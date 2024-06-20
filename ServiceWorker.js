@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Linju-1.0";
 const contentToCache = [
-    "Build/웹디자인1.loader.js",
-    "Build/웹디자인1.framework.js.gz",
-    "Build/웹디자인1.data.gz",
-    "Build/웹디자인1.wasm.gz",
+    "Build/1.loader.js",
+    "Build/1.framework.js.br",
+    "Build/1.data.br",
+    "Build/1.wasm.br",
     "TemplateData/style.css"
 
 ];
